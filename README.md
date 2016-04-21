@@ -1,8 +1,6 @@
-# Casper
+# Ghost theme for op-en.se
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
-
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+Comes from a fork of the default [Ghost](http://github.com/tryghost/ghost/) theme named [Casper](https://github.com/TryGhost/Casper)!
 
 ## Copyright & License
 
