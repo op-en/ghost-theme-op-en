@@ -546,6 +546,7 @@ body.nav-opened .site-wrapper {
         text-decoration: none;
         padding: 7px 15px;
         font-family: Raleway;
+	font-size: 2.4vmin;
     }
 
     .navigation div a:hover {
